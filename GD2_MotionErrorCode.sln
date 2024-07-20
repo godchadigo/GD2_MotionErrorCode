@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD2_MotionErrorCode", "GD2_MotionErrorCode\GD2_MotionErrorCode.csproj", "{090E45BE-AB19-4ABE-8311-7255BCA029EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090E45BE-AB19-4ABE-8311-7255BCA029EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090E45BE-AB19-4ABE-8311-7255BCA029EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090E45BE-AB19-4ABE-8311-7255BCA029EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090E45BE-AB19-4ABE-8311-7255BCA029EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED394599-6BDB-4FD1-BC63-78ABEA7F2E7D}
+	EndGlobalSection
+EndGlobal
